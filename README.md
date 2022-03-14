@@ -1,4 +1,4 @@
-# Frontend Mentor - 3-column preview card component solution
+# Frontend Mentor - 3-column preview card component 
 
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Luzanne-S/Frontend-mentor-practice)
-- Live Site URL: [Add live site URL here](https://luzanne-s.github.io/Frontend-mentor-practice/)
+- Solution URL:[https://github.com/Luzanne-S/Frontend-mentor-practice]
+- Live Site URL:[https://luzanne-s.github.io/Frontend-mentor-practice/]
 
 ## My process
 
